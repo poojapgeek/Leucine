@@ -1,4 +1,4 @@
-# Simplified User Access Management System
+# User Access Management System
 
 A full-stack application for managing user access to software systems. This project consists of separate frontend and backend applications that can be run independently.
 
